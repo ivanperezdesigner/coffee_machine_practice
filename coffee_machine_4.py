@@ -124,3 +124,5 @@ while True:
         machine_1.welcome()
     elif user_need == 'exit':
         exit()
+
+# Coffee Machine
